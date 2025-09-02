@@ -23,7 +23,7 @@ return [
     'og_image' => '/assets/frontend/media/common/logo.png',
 
     'twitter_card' => 'summary_large_image',
-    'twitter_site' => '@YourTwitter',
+    'twitter_site' => '@rahman_shaikat5',
 
     'canonical' => null,
     'image_src' => '/assets/frontend/media/common/logo.png',
