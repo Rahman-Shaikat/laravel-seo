@@ -1,0 +1,33 @@
+{
+  "name": "wall-e/laravel-seo",
+  "description": "A simple SEO meta manager for Laravel",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Rahman-Shaikat",
+      "email": "shaikat3257@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "illuminate/support": "12.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "WallE\\LaravelSeo\\": "src/"
+    },
+    "files": [
+      "src/Helpers/seo.php"
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "WallE\\LaravelSeo\\SeoServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev"
+}
