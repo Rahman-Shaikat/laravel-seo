@@ -103,12 +103,12 @@ Make sure to follow semantic versioning for updates.
 
 ## 📜 License
 
-MIT License. See the LICENSE file for details.
+MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ## 🔗 Links
 
-Packagist: 
+Packagist: https://packagist.org/packages/wall-e/laravel-seo
 
 GitHub Repository: https://github.com/Rahman-Shaikat/laravel-seo.git
 
